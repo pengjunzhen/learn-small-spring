@@ -1,0 +1,3 @@
+rootProject.name = 'learn-small-spring'
+include 'spring-step-01'
+
