@@ -1,3 +1,4 @@
 rootProject.name = 'learn-small-spring'
 include 'spring-step-01'
+include 'spring-step-02'
 
